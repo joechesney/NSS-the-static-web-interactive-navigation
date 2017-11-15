@@ -1,0 +1,14 @@
+nav ul li a:hover {
+    color: pink;
+    background-color: blueviolet;  /*SEE COMMENT BELOW */
+    
+}
+/* didn't know if you wanted just the anchor background to change, or the entire list element 
+ I know how to do both, I promise. 
+nav ul li:hover {  
+    background-color: blueviolet; 
+} */
+
+nav ul li a:active {
+    padding: 0 5px;
+}
